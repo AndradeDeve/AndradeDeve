@@ -113,5 +113,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeDeve&theme=dark&custom_title=Tecnologias&langs_count=9"
     />
 </p>
-
-![Snake animation](https://github.com/AndradeDeve/AndradeDeve/blob/output/github-contribution-grid-snake.svg)
