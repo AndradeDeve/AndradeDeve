@@ -21,7 +21,7 @@
 </p>
 
 </div>
----
+__________________________________________________________________________________________________________________________________________________________________
 
 ### 🤖 Tecnologias
 <p>
@@ -51,6 +51,14 @@
       />
     <img 
     align="left" 
+    alt="Puthon"
+    title="Python" 
+    width="60px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+      />
+    <img 
+    align="left" 
     alt="GitHub"
     title="GitHub" 
     width="60px" 
@@ -72,14 +80,6 @@
     width="60px" 
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-      />
-    <img 
-    align="left" 
-    alt="Puthon"
-    title="Python" 
-    width="60px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
       />
     <img 
     align="left" 
