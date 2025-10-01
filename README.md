@@ -18,6 +18,16 @@
             src="https://custom-icon-badges.demolab.com/github/followers/AndradeDeve?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/Guilherme Andrade/" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Me adicione no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    </a>
 </p>
 
 
