@@ -18,7 +18,7 @@
             src="https://custom-icon-badges.demolab.com/github/followers/AndradeDeve?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/Guilherme Andrade/">
+    <a [href="https://www.linkedin.com/in/Guilherme Andrade](https://www.linkedin.com/in/guilherme-andrade-38684731b/)/">
     <img 
         alt="LinkedIn" 
         title="Me adicione no LinkedIn" 
