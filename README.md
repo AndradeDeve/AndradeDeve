@@ -24,20 +24,20 @@
 ### 🤖 Tecnologias
 <p>
   <img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="70px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+      align="left" 
+      alt="Node.js"
+      title="Node.js" 
+      width="70px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
     />
     <img 
-    align="left" 
-    alt="Csahrp"
-    title="Csahrp" 
-    width="60px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+      align="left" 
+      alt="Csahrp"
+      title="Csahrp" 
+      width="60px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
       />
     <img 
     align="left" 
@@ -48,20 +48,20 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
       />
     <img 
-    align="left" 
-    alt="Puthon"
-    title="Python" 
-    width="60px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-      />
+      align="left" 
+      alt="Puthon"
+      title="Python" 
+      width="60px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+      />        
     <img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="60px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+      align="left" 
+      alt="GitHub"
+      title="GitHub" 
+      width="60px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
       />
     <img
       align="left" 
