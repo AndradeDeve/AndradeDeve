@@ -63,6 +63,13 @@
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
       />
+    <img
+      align="left" 
+      alt="MongoDB"
+      title="MongoDB" 
+      width="60px" 
+      style="padding-right: 30px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />  
     <img 
     align="left" 
     alt="MySql"
